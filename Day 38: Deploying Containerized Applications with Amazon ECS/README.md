@@ -12,7 +12,7 @@ Visibility: Private
 
 Repository name:
 
-devops-ecr
+`devops-ecr`
 
 
 Leave all other options as default
@@ -43,21 +43,20 @@ Step 3: Authenticate Docker to ECR
 
 Authenticate Docker with ECR:
 
+```
 aws ecr get-login-password --region us-east-1 \
 | docker login --username AWS --password-stdin xxxxxxxxxxxx.dkr.ecr.us-east-1.amazonaws.com/devops-ecr
-
+```
 
 ✅ Login should succeed without errors.
 
 Step 4: Push Docker Image to ECR
 
 
-
-
 Push the image:
-
+```
 docker push xxxxxxxxxxxx.dkr.ecr.us-east-1.amazonaws.com/devops-ecr
-
+```
 
 Verify in ECR → devops-ecr → Images
 
@@ -77,7 +76,7 @@ Cluster Configuration
 
 Cluster name:
 
-devops-cluster
+`devops-cluster`
 
 
 Infrastructure: AWS Fargate
@@ -100,7 +99,7 @@ Task Definition Settings
 
 Task definition name:
 
-devops-taskdefinition
+`devops-taskdefinition`
 
 
 Task role: None
@@ -117,7 +116,7 @@ Container Configuration
 
 Configure:
 
-Container name: devops-container
+Container name: `devops-container`
 
 Image URI:
 
@@ -145,7 +144,7 @@ Task definition: devops-taskdefinition
 
 Service name:
 
-devops-service
+`devops-service`
 
 
 Deployment configuration
