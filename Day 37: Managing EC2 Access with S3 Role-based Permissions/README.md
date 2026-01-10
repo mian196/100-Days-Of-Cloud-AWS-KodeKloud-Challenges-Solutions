@@ -10,16 +10,13 @@ Step 2: Set Up SSH Keys (Password-less Access)
 2.1 Create SSH Key Pair on aws-client
 
 Connect to the aws-client host.
-
-Generate a new SSH key pair:
-
+```
+# Generate a new SSH key pair:
 ssh-keygen -t rsa -f /root/.ssh/id_rsa -N ""
 
-
-Confirm files exist:
-
+# Confirm files exist:
 ls /root/.ssh/
-
+```
 
 You should see:
 
@@ -31,14 +28,11 @@ Connect to xfusion-ec2 using AWS Console (Instance Connect or Session Manager).
 
 Allow SSH port from anywhere at EC2's Security Group
 
-mkdir -p /root/.ssh
-chmod 700 /root/.ssh
-
-
+```
 Edit authorized keys file:
 sudo -i
 vi /root/.ssh/authorized_keys
-
+```
 
 Paste contents of:
 
@@ -59,7 +53,7 @@ Click Create bucket
 
 Configuration
 
-Bucket name: xfusion-s3-29734
+Bucket name: `xfusion-s3-29734`
 
 Region: Same as EC2
 
@@ -104,7 +98,7 @@ Click Next
 
 Policy name:
 
-xfusion-s3-policy
+`xfusion-s3-policy`
 
 
 Click Create policy
@@ -126,7 +120,7 @@ Click Next
 
 Select:
 
-xfusion-s3-policy
+`xfusion-s3-policy`
 
 
 Click Next
@@ -135,7 +129,7 @@ Click Next
 
 Role name:
 
-xfusion-role
+`xfusion-role`
 
 
 Click Create role
@@ -144,13 +138,13 @@ Step 6: Attach IAM Role to EC2 Instance
 
 Go to EC2 → Instances
 
-Select xfusion-ec2
+Select `xfusion-ec2`
 
 Click Actions → Security → Modify IAM role
 
 Choose:
 
-xfusion-role
+`xfusion-role`
 
 
 Click Update IAM role
@@ -162,26 +156,20 @@ Step 7: Test S3 Access from EC2
 
 From aws-client:
 
+```
 ssh root@<xfusion-ec2-public-ip>
 
-7.2 Create a Test File
+#7.2 Create a Test File
 echo "S3 access test" > testfile.txt
 
-7.3 Upload File to S3
+#7.3 Upload File to S3
 aws s3 cp testfile.txt s3://xfusion-s3-29734/
 
 
-Expected output:
-
-upload: ./testfile.txt to s3://xfusion-s3-29734/testfile.txt
-
-7.4 List Files in the Bucket
+#7.4 List Files in the Bucket
 aws s3 ls s3://xfusion-s3-29734/
+```
 
-
-Expected output:
-
-testfile.txt
 
 ![alt text](image.png)
 
