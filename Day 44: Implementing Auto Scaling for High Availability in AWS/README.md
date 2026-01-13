@@ -50,8 +50,8 @@ User Data (IMPORTANT)
 Under Advanced details → User data, paste:
 ```
 #!/bin/bash
-yum update -y
-amazon-linux-extras install nginx1 -y
+dnf update -y
+dnf install -y nginx
 systemctl start nginx
 systemctl enable nginx
 ```
