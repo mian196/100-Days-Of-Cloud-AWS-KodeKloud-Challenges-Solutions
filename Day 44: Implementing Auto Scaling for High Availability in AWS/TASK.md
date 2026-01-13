@@ -1,0 +1,8 @@
+The DevOps team is tasked with setting up a highly available web application using AWS. To achieve this, they plan to use an Auto Scaling Group (ASG) to ensure that the required number of EC2 instances are always running, and an Application Load Balancer (ALB) to distribute traffic across these instances. The goal of this task is to set up an ASG that automatically scales EC2 instances based on CPU utilization, and an ALB that directs incoming traffic to the instances. The EC2 instances should have Nginx installed and running to serve web traffic.
+
+Create an EC2 launch template named xfusion-launch-template that specifies the configuration for the EC2 instances, including the Amazon Linux 2 AMI, t2.micro instance type, and a security group that allows HTTP traffic on port 80.
+Add a User Data script to the launch template to install Nginx on the EC2 instances when they are launched. The script should install Nginx, start the Nginx service, and enable it to start on boot.
+Create an Auto Scaling Group named xfusion-asg that uses the launch template and ensures a minimum of 1 instance, desired capacity is 1 instance and a maximum of 2 instances are running based on CPU utilization. Set the target CPU utilization to 50%.
+Create a target group named xfusion-tg, an Application Load Balancer named xfusion-alb and configure it to listen on port 80. Ensure the ALB is associated with the Auto Scaling Group and distributes traffic across the instances.
+Configure health checks on the ALB to ensure it routes traffic only to healthy instances.
+Verify that the ALB's DNS name is accessible and that it displays the default Nginx page served by the EC2 instances.
