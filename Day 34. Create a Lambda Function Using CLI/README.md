@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2033.%20Create%20a%20Lambda%20Function) | [Next Day ▶️](../Day%2035.%20Deploying%20and%20Managing%20Applications%20on%20AWS)
+<!-- NAV_END -->
+
 🔹 Step 1: Create the Python script
 
 On the aws-client host, run:
@@ -72,3 +76,7 @@ Check the response:
 }
 
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2033.%20Create%20a%20Lambda%20Function) | [Next Day ▶️](../Day%2035.%20Deploying%20and%20Managing%20Applications%20on%20AWS)
+<!-- NAV_END -->

@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2042.%20Building%20and%20Managing%20NoSQL%20Databases%20with%20AWS%20DynamoDB) | [Next Day ▶️](../Day%2044.%20Implementing%20Auto%20Scaling%20for%20High%20Availability%20in%20AWS)
+<!-- NAV_END -->
+
 Step 1: Create IAM Role for EKS Cluster
 1.1 Open IAM Console
 
@@ -165,3 +169,7 @@ Default VPC
 Subnets in AZs a, b, c
 
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2042.%20Building%20and%20Managing%20NoSQL%20Databases%20with%20AWS%20DynamoDB) | [Next Day ▶️](../Day%2044.%20Implementing%20Auto%20Scaling%20for%20High%20Availability%20in%20AWS)
+<!-- NAV_END -->

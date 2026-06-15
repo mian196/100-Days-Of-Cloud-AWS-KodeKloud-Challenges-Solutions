@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2049.%20Centralized%20Audit%20Logging%20with%20VPC%20Peering)
+<!-- NAV_END -->
+
 Step 1: Identify the volume attached to xfusion-ec2
 
 From the aws-client host:
@@ -91,3 +95,7 @@ Filesystem      Size  Used Avail Use%
 
 ![alt text](image.png)
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2049.%20Centralized%20Audit%20Logging%20with%20VPC%20Peering)
+<!-- NAV_END -->

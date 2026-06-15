@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%205.Create%20GP3%20Volume) | [Next Day ▶️](../Day%207.Change%20EC2%20Instance%20Type)
+<!-- NAV_END -->
+
 ### Step-by-Step Instructions (AWS Console)
 
 1. Log in
@@ -76,3 +80,7 @@ Scroll down and click Launch instance.
 ![alt text](image-2.png)
 
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%205.Create%20GP3%20Volume) | [Next Day ▶️](../Day%207.Change%20EC2%20Instance%20Type)
+<!-- NAV_END -->

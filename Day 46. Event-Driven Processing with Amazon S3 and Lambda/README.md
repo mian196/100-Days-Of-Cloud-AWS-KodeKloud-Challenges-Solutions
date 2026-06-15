@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2045.%20Configure%20NAT%20Gateway%20for%20Internet%20Access%20in%20a%20Private%20VPC) | [Next Day ▶️](../Day%2047.%20Integrating%20AWS%20SQS%20and%20SNS%20for%20Reliable%20Messaging)
+<!-- NAV_END -->
+
 Architecture 
 
 
@@ -223,3 +227,7 @@ Object key (sample.zip)
 ![alt text](image-3.png)
 
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2045.%20Configure%20NAT%20Gateway%20for%20Internet%20Access%20in%20a%20Private%20VPC) | [Next Day ▶️](../Day%2047.%20Integrating%20AWS%20SQS%20and%20SNS%20for%20Reliable%20Messaging)
+<!-- NAV_END -->

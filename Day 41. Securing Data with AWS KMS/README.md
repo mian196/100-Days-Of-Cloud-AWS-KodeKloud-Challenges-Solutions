@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2040.%20Troubleshooting%20Internet%20Accessibility%20for%20an%20EC2-Hosted%20Application) | [Next Day ▶️](../Day%2042.%20Building%20and%20Managing%20NoSQL%20Databases%20with%20AWS%20DynamoDB)
+<!-- NAV_END -->
+
 Step 1: Create a Symmetric KMS Key
 
 Log in to the AWS Management Console
@@ -98,3 +102,7 @@ No output → files are identical ✅
 ![alt text](image-5.png)
 
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2040.%20Troubleshooting%20Internet%20Accessibility%20for%20an%20EC2-Hosted%20Application) | [Next Day ▶️](../Day%2042.%20Building%20and%20Managing%20NoSQL%20Databases%20with%20AWS%20DynamoDB)
+<!-- NAV_END -->

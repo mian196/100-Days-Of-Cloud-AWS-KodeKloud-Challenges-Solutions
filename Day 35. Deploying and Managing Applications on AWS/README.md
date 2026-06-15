@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2034.%20Create%20a%20Lambda%20Function%20Using%20CLI) | [Next Day ▶️](../Day%2036.%20Load%20Balancing%20EC2%20Instances%20with%20Application%20Load%20Balancer)
+<!-- NAV_END -->
+
 Step 1: Create a Private RDS MySQL Instance
 
 Log in to the AWS Management Console.
@@ -169,3 +173,7 @@ curl local host
 ✅ You should see: Connected successfully<br />
 
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2034.%20Create%20a%20Lambda%20Function%20Using%20CLI) | [Next Day ▶️](../Day%2036.%20Load%20Balancing%20EC2%20Instances%20with%20Application%20Load%20Balancer)
+<!-- NAV_END -->

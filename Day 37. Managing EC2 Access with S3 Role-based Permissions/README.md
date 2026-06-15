@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2036.%20Load%20Balancing%20EC2%20Instances%20with%20Application%20Load%20Balancer) | [Next Day ▶️](../Day%2038.%20Deploying%20Containerized%20Applications%20with%20Amazon%20ECS)
+<!-- NAV_END -->
+
 Step 1: Verify Existing EC2 Instance
 
 An EC2 instance named xfusion-ec2 already exists.
@@ -174,3 +178,7 @@ aws s3 ls s3://xfusion-s3-29734/
 ![alt text](image.png)
 
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2036.%20Load%20Balancing%20EC2%20Instances%20with%20Application%20Load%20Balancer) | [Next Day ▶️](../Day%2038.%20Deploying%20Containerized%20Applications%20with%20Amazon%20ECS)
+<!-- NAV_END -->

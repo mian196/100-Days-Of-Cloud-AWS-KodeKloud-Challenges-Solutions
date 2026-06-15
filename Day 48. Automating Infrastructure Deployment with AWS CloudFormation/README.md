@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2047.%20Integrating%20AWS%20SQS%20and%20SNS%20for%20Reliable%20Messaging) | [Next Day ▶️](../Day%2049.%20Centralized%20Audit%20Logging%20with%20VPC%20Peering)
+<!-- NAV_END -->
+
 📄 CloudFormation Template
 ```
 vi devops-lambda.yml
@@ -72,3 +76,7 @@ Expected output:
 ![alt text](image.png)
 
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2047.%20Integrating%20AWS%20SQS%20and%20SNS%20for%20Reliable%20Messaging) | [Next Day ▶️](../Day%2049.%20Centralized%20Audit%20Logging%20with%20VPC%20Peering)
+<!-- NAV_END -->

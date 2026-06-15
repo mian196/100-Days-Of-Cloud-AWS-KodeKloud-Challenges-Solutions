@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2031.%20Configuring%20a%20Private%20RDS%20Instance%20for%20Application%20Development) | [Next Day ▶️](../Day%2033.%20Create%20a%20Lambda%20Function)
+<!-- NAV_END -->
+
 🔹 Step 1: Ensure Source RDS is Available
 
 Open AWS Console → RDS
@@ -80,3 +84,7 @@ Wait until Status = Available
 ![alt text](image-3.png)
 
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2031.%20Configuring%20a%20Private%20RDS%20Instance%20for%20Application%20Development) | [Next Day ▶️](../Day%2033.%20Create%20a%20Lambda%20Function)
+<!-- NAV_END -->

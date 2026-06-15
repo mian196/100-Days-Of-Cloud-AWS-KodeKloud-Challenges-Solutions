@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2035.%20Deploying%20and%20Managing%20Applications%20on%20AWS) | [Next Day ▶️](../Day%2037.%20Managing%20EC2%20Access%20with%20S3%20Role-based%20Permissions)
+<!-- NAV_END -->
+
 Step 1: Create Security Group xfusion-sg
 
 Open AWS Management Console
@@ -211,3 +215,7 @@ You should see the Nginx Welcome Page, confirming:
 ✔ Target group is healthy
 
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2035.%20Deploying%20and%20Managing%20Applications%20on%20AWS) | [Next Day ▶️](../Day%2037.%20Managing%20EC2%20Access%20with%20S3%20Role-based%20Permissions)
+<!-- NAV_END -->

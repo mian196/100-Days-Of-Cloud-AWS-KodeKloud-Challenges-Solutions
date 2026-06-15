@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2037.%20Managing%20EC2%20Access%20with%20S3%20Role-based%20Permissions) | [Next Day ▶️](../Day%2039.%20Hosting%20a%20Static%20Website%20on%20AWS%20S3)
+<!-- NAV_END -->
+
 Step 1: Create a Private ECR Repository
 
 Log in to the AWS Management Console
@@ -188,3 +192,7 @@ Expect Output from Web
 `Welcome to KKE AWS cloud labs!`
 
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2037.%20Managing%20EC2%20Access%20with%20S3%20Role-based%20Permissions) | [Next Day ▶️](../Day%2039.%20Hosting%20a%20Static%20Website%20on%20AWS%20S3)
+<!-- NAV_END -->

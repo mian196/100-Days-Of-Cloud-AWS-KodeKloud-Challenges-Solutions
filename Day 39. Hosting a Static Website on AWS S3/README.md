@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2038.%20Deploying%20Containerized%20Applications%20with%20Amazon%20ECS) | [Next Day ▶️](../Day%2040.%20Troubleshooting%20Internet%20Accessibility%20for%20an%20EC2-Hosted%20Application)
+<!-- NAV_END -->
+
 Step 1: Create the S3 Bucket
 
 Log in to the AWS Management Console
@@ -111,3 +115,7 @@ http://nautilus-web-18747.s3-website-<region>.amazonaws.com
 You should see the content of index.html
 
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2038.%20Deploying%20Containerized%20Applications%20with%20Amazon%20ECS) | [Next Day ▶️](../Day%2040.%20Troubleshooting%20Internet%20Accessibility%20for%20an%20EC2-Hosted%20Application)
+<!-- NAV_END -->

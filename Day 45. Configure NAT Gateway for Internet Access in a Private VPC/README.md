@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2044.%20Implementing%20Auto%20Scaling%20for%20High%20Availability%20in%20AWS) | [Next Day ▶️](../Day%2046.%20Event-Driven%20Processing%20with%20Amazon%20S3%20and%20Lambda)
+<!-- NAV_END -->
+
 Step 1: Create a Public Subnet
 
 Go to VPC → Subnets → Create subnet
@@ -185,3 +189,7 @@ Check Objects
 ![alt text](image-7.png)
 
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2044.%20Implementing%20Auto%20Scaling%20for%20High%20Availability%20in%20AWS) | [Next Day ▶️](../Day%2046.%20Event-Driven%20Processing%20with%20Amazon%20S3%20and%20Lambda)
+<!-- NAV_END -->

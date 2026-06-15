@@ -1,3 +1,6 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%201.Create%20Key%20Pair) | [Next Day ▶️](../Day%203.Create%20Subnet)
+<!-- NAV_END -->
 
 #### Steps to Create Security Group via AWS Console:
 
@@ -63,3 +66,7 @@ Scroll down and click the orange "Create security group" button
 ![alt text](image-1.png)
 
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%201.Create%20Key%20Pair) | [Next Day ▶️](../Day%203.Create%20Subnet)
+<!-- NAV_END -->

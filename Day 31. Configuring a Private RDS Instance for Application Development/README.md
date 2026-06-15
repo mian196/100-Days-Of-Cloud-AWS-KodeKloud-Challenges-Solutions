@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2030.%20Enable%20Internet%20Access%20for%20Private%20EC2%20using%20NAT%20Instance) | [Next Day ▶️](../Day%2032.%20Snapshot%20and%20Restoration%20of%20an%20RDS%20Instance)
+<!-- NAV_END -->
+
 🧭 STEP-BY-STEP SOLUTION (AWS Console)
 🔹 Step 1: Open RDS Console
 
@@ -102,3 +106,7 @@ Modifying
 Backing-up
 
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2030.%20Enable%20Internet%20Access%20for%20Private%20EC2%20using%20NAT%20Instance) | [Next Day ▶️](../Day%2032.%20Snapshot%20and%20Restoration%20of%20an%20RDS%20Instance)
+<!-- NAV_END -->

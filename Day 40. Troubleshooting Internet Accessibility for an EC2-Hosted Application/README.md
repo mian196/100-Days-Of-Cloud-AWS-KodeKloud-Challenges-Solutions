@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2039.%20Hosting%20a%20Static%20Website%20on%20AWS%20S3) | [Next Day ▶️](../Day%2041.%20Securing%20Data%20with%20AWS%20KMS)
+<!-- NAV_END -->
+
 Step 1: Verify Internet Gateway (IGW) for xfusion-vpc
 
 Go to VPC → Internet Gateways
@@ -98,3 +102,7 @@ http://<EC2_PUBLIC_IP>
 ✅ Issue Resolved – Root Cause Identified
 
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2039.%20Hosting%20a%20Static%20Website%20on%20AWS%20S3) | [Next Day ▶️](../Day%2041.%20Securing%20Data%20with%20AWS%20KMS)
+<!-- NAV_END -->

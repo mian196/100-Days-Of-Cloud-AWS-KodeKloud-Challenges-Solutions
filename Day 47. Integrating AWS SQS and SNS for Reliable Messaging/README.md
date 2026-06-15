@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2046.%20Event-Driven%20Processing%20with%20Amazon%20S3%20and%20Lambda) | [Next Day ▶️](../Day%2048.%20Automating%20Infrastructure%20Deployment%20with%20AWS%20CloudFormation)
+<!-- NAV_END -->
+
 Architecture
 
 SNS Topic
@@ -216,3 +220,7 @@ Step 8: Test Lambda for Low Priority Order
 
 ![alt text](image-8.png)
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2046.%20Event-Driven%20Processing%20with%20Amazon%20S3%20and%20Lambda) | [Next Day ▶️](../Day%2048.%20Automating%20Infrastructure%20Deployment%20with%20AWS%20CloudFormation)
+<!-- NAV_END -->

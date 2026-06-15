@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2043.%20Scaling%20and%20Managing%20Kubernetes%20Clusters%20with%20Amazon%20EKS) | [Next Day ▶️](../Day%2045.%20Configure%20NAT%20Gateway%20for%20Internet%20Access%20in%20a%20Private%20VPC)
+<!-- NAV_END -->
+
 Step 1: Create Security Group for EC2 & ALB
 
 Go to EC2 → Security Groups
@@ -213,3 +217,7 @@ Open browser:
 http://<ALB-DNS-NAME>
 
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2043.%20Scaling%20and%20Managing%20Kubernetes%20Clusters%20with%20Amazon%20EKS) | [Next Day ▶️](../Day%2045.%20Configure%20NAT%20Gateway%20for%20Internet%20Access%20in%20a%20Private%20VPC)
+<!-- NAV_END -->

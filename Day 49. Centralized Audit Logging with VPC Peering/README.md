@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2048.%20Automating%20Infrastructure%20Deployment%20with%20AWS%20CloudFormation) | [Next Day ▶️](../Day%2050.%20Expanding%20EC2%20Instance%20Storage%20for%20Development%20Needs)
+<!-- NAV_END -->
+
 🔹 Step 1: Create Public VPC
 
 AWS Console → VPC → Create VPC
@@ -206,3 +210,7 @@ devops-s3-logs-5789
 ![alt text](image.png)
 
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2048.%20Automating%20Infrastructure%20Deployment%20with%20AWS%20CloudFormation) | [Next Day ▶️](../Day%2050.%20Expanding%20EC2%20Instance%20Storage%20for%20Development%20Needs)
+<!-- NAV_END -->

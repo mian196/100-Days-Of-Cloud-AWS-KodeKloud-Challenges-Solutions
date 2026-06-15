@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%203.Create%20Subnet) | [Next Day ▶️](../Day%205.Create%20GP3%20Volume)
+<!-- NAV_END -->
+
 ###  Steps to Allocate and Name an Elastic IP
 
 1. Log in to AWS Console
@@ -47,3 +51,7 @@ Save the changes.
 ![alt text](image-1.png)
 
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%203.Create%20Subnet) | [Next Day ▶️](../Day%205.Create%20GP3%20Volume)
+<!-- NAV_END -->

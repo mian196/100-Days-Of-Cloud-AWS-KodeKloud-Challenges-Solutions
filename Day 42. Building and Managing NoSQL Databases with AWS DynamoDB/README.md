@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2041.%20Securing%20Data%20with%20AWS%20KMS) | [Next Day ▶️](../Day%2043.%20Scaling%20and%20Managing%20Kubernetes%20Clusters%20with%20Amazon%20EKS)
+<!-- NAV_END -->
+
 Step 1: Create the DynamoDB Table
 Using AWS Console
 
@@ -135,3 +139,7 @@ Click each item to verify values if needed
 ![alt text](image-4.png)
 
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2041.%20Securing%20Data%20with%20AWS%20KMS) | [Next Day ▶️](../Day%2043.%20Scaling%20and%20Managing%20Kubernetes%20Clusters%20with%20Amazon%20EKS)
+<!-- NAV_END -->

@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2032.%20Snapshot%20and%20Restoration%20of%20an%20RDS%20Instance) | [Next Day ▶️](../Day%2034.%20Create%20a%20Lambda%20Function%20Using%20CLI)
+<!-- NAV_END -->
+
 🔹 Step 1: Create the IAM Role (lambda_execution_role)
 
 Go to AWS Console → IAM
@@ -118,3 +122,7 @@ You should see:
 }
 
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2032.%20Snapshot%20and%20Restoration%20of%20an%20RDS%20Instance) | [Next Day ▶️](../Day%2034.%20Create%20a%20Lambda%20Function%20Using%20CLI)
+<!-- NAV_END -->

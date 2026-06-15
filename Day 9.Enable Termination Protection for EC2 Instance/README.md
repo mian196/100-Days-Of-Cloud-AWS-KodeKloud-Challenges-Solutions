@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%208.Enable%20Stop%20Protection%20for%20EC2%20Instance) | [Next Day ▶️](../Day%2010.Attach%20Elastic%20IP%20to%20EC2%20Instance)
+<!-- NAV_END -->
+
 ### Step-by-Step Instructions (AWS Console)
 1. Log in to AWS Console
 
@@ -38,3 +42,7 @@ Click Save
 ![alt text](image-1.png)
 
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%208.Enable%20Stop%20Protection%20for%20EC2%20Instance) | [Next Day ▶️](../Day%2010.Attach%20Elastic%20IP%20to%20EC2%20Instance)
+<!-- NAV_END -->

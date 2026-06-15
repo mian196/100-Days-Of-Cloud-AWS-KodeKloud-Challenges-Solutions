@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2028.%20Creating%20a%20Private%20ECR%20Repository) | [Next Day ▶️](../Day%2030.%20Enable%20Internet%20Access%20for%20Private%20EC2%20using%20NAT%20Instance)
+<!-- NAV_END -->
+
 Step-by-Step
 1) Create and accept the VPC Peering connection
 
@@ -105,3 +109,7 @@ Expected: replies received (ICMP works).
 ![alt text](image-3.png)
 
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2028.%20Creating%20a%20Private%20ECR%20Repository) | [Next Day ▶️](../Day%2030.%20Enable%20Internet%20Access%20for%20Private%20EC2%20using%20NAT%20Instance)
+<!-- NAV_END -->
